@@ -2,6 +2,6 @@
 
 namespace AltairUtil
 {
-	public class Class1
+	public class AltairUtil
 	{ }
 }
